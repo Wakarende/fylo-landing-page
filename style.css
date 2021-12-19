@@ -25,6 +25,7 @@ body p {
     sans-serif;
 }
 
+
 .hero-btn {
   border: solid 1px var(--blueAccent);
   background-color: var(--blueAccent);
@@ -85,3 +86,26 @@ body p {
 }
 
 /* END Services  */
+/* Productive */
+.productive {
+  background-color: var(--mainBg);
+  color: var(--white);
+}
+
+.productive-flex {
+  display: flex;
+  column-gap: 20px;
+}
+
+.productive-img {
+  margin-top: 100px;
+}
+
+.productive-content {
+  margin-top: 250px;
+}
+
+/* END Productive  */
+/* Testimonials  */
+
+/* END Testimonials  */
