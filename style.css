@@ -74,3 +74,14 @@ body p {
 
 
 /* END Header   */
+/* Services  */
+.services {
+  background-color: var(--mainBg);
+  color: var(--white);
+}
+
+.icons {
+  margin-top: 100px;
+}
+
+/* END Services  */
