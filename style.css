@@ -140,3 +140,49 @@ body p {
 }
 
 /* END Testimonials  */
+/* Early Access  */
+
+.early-access {
+  background-color: var(--mainBg);
+  color: var(--white);
+}
+
+.access-card {
+  background-color: var(--introEmail);
+  padding-bottom: 50px;
+  padding-top: 50px;
+}
+
+.access-btn {
+  background-color: var(--blueAccent);
+  color: var(--white);
+  border: solid 1px var(--blueAccent);
+  border-radius: 20px;
+  padding-right: 30px;
+  padding-left: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.access-form {
+  display: flex;
+  justify-content: center;
+  column-gap: 30px;
+}
+
+input {
+  border-radius: 30px;
+  width: 50%;
+  padding: 10px 30px;
+}
+
+/* END  */
+
+/* Footer  */
+footer {
+  background-color: var(--footerBg);
+  color: var(--white);
+  padding-top: 100px;
+}
+
+/* END  */
