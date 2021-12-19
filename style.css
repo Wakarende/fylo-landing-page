@@ -24,3 +24,53 @@ body p {
   font-family: 'Roboto',
     sans-serif;
 }
+
+.hero-btn {
+  border: solid 1px var(--blueAccent);
+  background-color: var(--blueAccent);
+  border-radius: 20px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.hero-btn:hover {
+  color: var(--blueAccent);
+}
+
+/* Header  */
+.header {
+  background-image: url(images/bg-curvy-desktop.svg);
+  background-repeat: no-repeat;
+  background-position: bottom;
+  /* width: 100%; */
+
+
+  color: var(--white);
+}
+
+.hero {
+  background-color: var(--introEmail);
+  height: 100vh;
+}
+
+.logo {
+  width: 100px;
+  height: 40px;
+}
+
+.nav-link {
+  float: right;
+}
+
+.nav-link {
+  color: var(--white);
+}
+
+.hero-img {
+  width: 500px;
+  margin-bottom: 50px;
+}
+
+
+
+/* END Header   */
