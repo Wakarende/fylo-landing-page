@@ -105,7 +105,38 @@ body p {
   margin-top: 250px;
 }
 
+.prod-links {
+  color: var(--cyan);
+}
+
 /* END Productive  */
 /* Testimonials  */
+.testimonials {
+  background-color: var(--mainBg);
+  padding-top: 128px;
+  padding-bottom: 128px;
+}
+
+.prof-img {
+  border-radius: 100%;
+  width: 30px;
+}
+
+.profile {
+  display: flex;
+  column-gap: 10px;
+}
+
+.test-flex {
+  display: flex;
+  column-gap: 35px;
+  justify-content: center;
+  align-items: center;
+}
+
+.test {
+  background-color: var(--testimonialsBg);
+  color: var(--white);
+}
 
 /* END Testimonials  */
